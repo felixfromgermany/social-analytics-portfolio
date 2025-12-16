@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+data/raw/*
+!data/raw/.gitkeep
+*.html
+*.pdf
+.DS_Store
